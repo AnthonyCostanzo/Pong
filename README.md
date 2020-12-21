@@ -1,2 +1,2 @@
-# Pong
-Neon Pong Game built with html css and javascript 
+Neon Pong Arcade Game built with html, css, and javascript
+
